@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+
+    font-size: 50px;
+}
+.name{
+
+    color: orange;
+
+}
+.head{
+
+    margin-left: 10px;
+
+}
+.heading{
+
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.heading img{
+
+    width: 100%;
+}
+.Hire{
+text-decoration: none;
+
+
+}
